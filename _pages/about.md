@@ -17,7 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an incoming MPhil of HKUST CSE, supervised by [Prof. Junxian He](https://jxhe.github.io/). I received my B.S. degree in the CKC honor college at [Zhejiang University](https://www.zju.edu.cn/english/) in 2025, majoring in computer science. During my undergraduate years, I collaborated with [Dr. Jie Fu](https://bigaidream.github.io/) and [Prof. Ningyu Zhang](https://person.zju.edu.cn/en/ningyu).
+I am an incoming MPhil in HKUST CSE, supervised by [Prof. Junxian He](https://jxhe.github.io/). I received my B.S. degree from the CKC honor college at [Zhejiang University](https://www.zju.edu.cn/english/) in 2025, majoring in computer science. During my undergraduate years, I collaborated with [Dr. Jie Fu](https://bigaidream.github.io/) and [Prof. Ningyu Zhang](https://person.zju.edu.cn/en/ningyu).
+
+After exploring several research areas, my interests have gradually converged on building general intelligent agents (AGI), with two key directions:
+- Reasoning — particularly, how reinforcement learning can shape and enhance reasoning capabilities
+- Tool-using agents — developing improved algorithms and challenging datasets to strengthen models' ability to invoke tools and solve real-world tasks
+
+I am open to any collaboration😊
 
 
 # Publications 
