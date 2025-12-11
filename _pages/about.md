@@ -38,7 +38,7 @@ Junlong Li\*, Wenshuo Zhao\*, Jian Zhao\*, Weihao Zeng\*, **Haoze Wu**\*, Xiaoch
 
 <div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">Mirage or Method? How Model-Task Alignment Induces Divergent RL Conclusions</font>
-**Haoze Wu**\*, Cheng Wang\*, Wenshuo Zhao,, Junxian He\\
+**Haoze Wu**\*, Cheng Wang\*, Wenshuo Zhao, Junxian He\\
 **MATH-AI@NeurIPS 2025** |  [PDF](https://arxiv.org/abs/2508.21188) | [Code](https://github.com/hkust-nlp/model-task-align-rl)
 </div>
 
