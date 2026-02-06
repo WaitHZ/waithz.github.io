@@ -52,7 +52,7 @@ Junlong Li\*, Wenshuo Zhao\*, Jian Zhao\*, Weihao Zeng\*, **Haoze Wu**\*, Xiaoch
 <div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">GW-MoE: Resolving Uncertainty in MoE Router with Global Workspace Theory</font>
 **Haoze Wu**\*, Zihan Qiu\*, Zili Wang, Hang Zhao, Jie Fu\\
-**Arxiv 2024** |  [PDF](https://arxiv.org/abs/2406.12375) | [Code](https://github.com/WaitHZ/GW-MoE)
+**Preprint 2024** |  [PDF](https://arxiv.org/abs/2406.12375) | [Code](https://github.com/WaitHZ/GW-MoE)
 </div>
 
 
