@@ -64,4 +64,4 @@ Junlong Li\*, Wenshuo Zhao\*, Jian Zhao\*, Weihao Zeng\*, **Haoze Wu**\*, Xiaoch
 - *2024.10 - 2025.01*, [Shanghai AI Lab](https://www.shlab.org.cn/), Shanghai.
 
 # Service
-- Reviewer: Math-AI@NeurIPS
+- Reviewer: ARR, Math-AI@NeurIPS
