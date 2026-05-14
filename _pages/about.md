@@ -57,7 +57,7 @@ Junlong Li\*, Wenshuo Zhao\*, Jian Zhao\*, Weihao Zeng\*, **Haoze Wu**\*, Xiaoch
 
 
 # Education
-- *2021.09 - 2025.06*, B.S.@ZJU, Computer Science (Minor: Advanced Class for Engineering Education, ACEE)
+- *2021.09 - 2025.06*, B.S.@ZJU, Computer Science
 
 # Internships
 - *2025.10 - 2026.05*, [Huawei Foundation Model Department](https://www.huawei.com/en/), Shenzhen.
