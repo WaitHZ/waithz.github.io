@@ -61,7 +61,6 @@ Junlong Li\*, Wenshuo Zhao\*, Jian Zhao\*, Weihao Zeng\*, **Haoze Wu**\*, Xiaoch
 
 # Internships
 - *2026.06 - Present*, [MiniMax Post-Train](https://www.minimax.io/), Shanghai.
-- *2025.10 - 2026.05*, [Huawei Foundation Model Department](https://www.huawei.com/en/), Shenzhen.
 - *2024.10 - 2025.01*, [Shanghai AI Lab](https://www.shlab.org.cn/), Shanghai.
 
 # Service
