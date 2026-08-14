@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Haoze Wu"
-description              : "Beginner in Research"
+description              : "MPhil Student at HKUST CSE"
 repository               : "waithz/waithz.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -24,11 +24,11 @@ author:
   name             : "Haoze Wu"
   avatar           : "images/me.jpg"
   bio              : "HKUST CSE"
-  location         : "Shanghai, China"
+  location         : "Hong Kong, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=vVngTF8AAAAJ"
-  email            : "wuhz1020@gmail.com"
+  email            : "hwuds@connect.ust.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
