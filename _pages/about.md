@@ -26,7 +26,7 @@ I am open to any collaboration😊
 <div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">Beyond Outcome Rewards: Step-Level Self-Distilled Policy Optimization for Deep Search Agents</font>
 **Haoze Wu**, Chuqiao Kuang, Tianyi Zhuang, Xiaoguang Li\\
-**Preprint 2026** |  [PDF](https://arxiv.org/pdf/2608.12764) | [Code](https://github.com/hkust-nlp/SSPO)
+**Preprint 2026** |  [PDF](https://arxiv.org/pdf/2608.12764) | [Code](https://github.com/hkust-nlp/SSPO) | [Dataset](https://huggingface.co/datasets/WaitHZ/SSPO-data)
 </div>
 
 <div class='paper-box-text' markdown="1">
