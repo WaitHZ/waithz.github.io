@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an incoming MPhil in HKUST CSE, supervised by [Prof. Junxian He](https://jxhe.github.io/). I received my B.S. degree from the CKC honor college at [Zhejiang University](https://www.zju.edu.cn/english/) in 2025, majoring in computer science. During my undergraduate years, I collaborated with [Dr. Jie Fu](https://bigaidream.github.io/) and [Prof. Ningyu Zhang](https://person.zju.edu.cn/en/ningyu).
+I am a first-year MPhil student in HKUST CSE, supervised by [Prof. Junxian He](https://jxhe.github.io/), and currently a research intern at [MiniMax](https://www.minimax.io/). I received my B.Eng. degree from the CKC honor college at [Zhejiang University](https://www.zju.edu.cn/english/) in 2025, majoring in computer science. During my undergraduate years, I collaborated with [Dr. Jie Fu](https://bigaidream.github.io/) and [Prof. Ningyu Zhang](https://person.zju.edu.cn/en/ningyu).
 
 After exploring several research areas, my interests have gradually converged on building general intelligent agents (AGI), with two key directions:
 - **Reasoning** — particularly, how reinforcement learning can shape and enhance reasoning capabilities
@@ -22,6 +22,12 @@ I am open to any collaboration😊
 # Publications 
 
 (* denotes co-first authors)
+
+<div class='paper-box-text' markdown="1">
+<font color="CornFlowerBlue">Beyond Outcome Rewards: Step-Level Self-Distilled Policy Optimization for Deep Search Agents</font>
+**Haoze Wu**, Chuqiao Kuang, Tianyi Zhuang, Xiaoguang Li\\
+**Preprint 2026** |  [PDF](https://arxiv.org/pdf/2608.12764) | [Code](https://github.com/hkust-nlp/SSPO)
+</div>
 
 <div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue">The Tool Decathlon: Benchmarking Language Agents for Diverse, Realistic, and Long-Horizon Task Execution</font>
@@ -50,7 +56,8 @@ Junlong Li\*, Wenshuo Zhao\*, Jian Zhao\*, Weihao Zeng\*, **Haoze Wu**\*, Xiaoch
 
 
 # Education
-- *2021.09 - 2025.06*, B.S.@ZJU, Computer Science
+- *2026.08 - 2028.06 (expected)*, MPhil@HKUST, CSE
+- *2021.09 - 2025.06*, B.Eng.@ZJU, Computer Science
 
 # Internships
 - *2026.06 - Present*, [MiniMax Post-Train](https://www.minimax.io/), Shanghai.
