@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year MPhil student in HKUST CSE, supervised by [Prof. Junxian He](https://jxhe.github.io/), and currently a research intern at [MiniMax](https://www.minimax.io/). I received my B.Eng. degree from the CKC honor college at [Zhejiang University](https://www.zju.edu.cn/english/) in 2025, majoring in computer science. During my undergraduate years, I collaborated with [Dr. Jie Fu](https://bigaidream.github.io/) and [Prof. Ningyu Zhang](https://person.zju.edu.cn/en/ningyu).
+I am a first-year MPhil student at HKUST CSE, supervised by [Prof. Junxian He](https://jxhe.github.io/), and currently a research intern at [MiniMax](https://www.minimax.io/). I received my B.Eng. degree from the CKC honor college at [Zhejiang University](https://www.zju.edu.cn/english/) in 2025, majoring in computer science. During my undergraduate years, I collaborated with [Dr. Jie Fu](https://bigaidream.github.io/) and [Prof. Ningyu Zhang](https://person.zju.edu.cn/en/ningyu).
 
 After exploring several research areas, my interests have gradually converged on building general intelligent agents (AGI), with two key directions:
 - **Reasoning** — particularly, how reinforcement learning can shape and enhance reasoning capabilities
