@@ -10,9 +10,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year MPhil student at [HKUST NLP Group](https://github.com/hkust-nlp), supervised by [Prof. Junxian He](https://jxhe.github.io/), and currently a research intern at [MiniMax](https://www.minimax.io/). I received my B.Eng. degree from the CKC honor college at [Zhejiang University](https://www.zju.edu.cn/english/) in 2025.
+I am a first-year MPhil student at [HKUST NLP Group](https://github.com/hkust-nlp), supervised by [Prof. Junxian He](https://jxhe.github.io/), and currently a research intern at [MiniMax](https://www.minimax.io/). I received my B.Eng. degree from the CKC honor college at [Zhejiang University](https://www.zju.edu.cn/english/) in 2025. My research interests center on two directions:
 
-After exploring several research areas, my interests have gradually converged on building general intelligent agents (AGI), with two key directions:
 - **Reasoning** — particularly, how reinforcement learning can shape and enhance reasoning capabilities
 - **Tool-using agents** — developing improved algorithms and challenging datasets to strengthen models' ability to invoke tools and solve real-world tasks
 
