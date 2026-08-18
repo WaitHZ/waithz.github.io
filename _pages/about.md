@@ -43,7 +43,7 @@ Junlong Li\*, Wenshuo Zhao\*, Jian Zhao\*, Weihao Zeng\*, **Haoze Wu**\*, Xiaoch
 
 
 <div class='paper-box-text' markdown="1">
-<strong><font color="CornFlowerBlue">Recode: Updating code api knowledge with reinforcement learning</font></strong><br>
+<strong><font color="CornFlowerBlue">ReCode: Updating Code API Knowledge with Reinforcement Learning</font></strong><br>
 **Haoze Wu**, Yunzhi Yao, Wenhao Yu, Ningyu Zhang\\
 **AAAI 2026** |  [PDF](https://arxiv.org/abs/2506.20495) | [Code](https://github.com/zjunlp/ReCode) | [Dataset](https://huggingface.co/datasets/zjunlp/ReCode-Train-Data)
 </div>
