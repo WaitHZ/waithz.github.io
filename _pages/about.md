@@ -14,10 +14,10 @@ Hi, I am a first-year MPhil student at [HKUST NLP Group](https://github.com/hkus
 
 # 🧠 Research Interests {#research-interests}
 
-My research interests center on two directions:
+My research focuses on **scaling agentic Reinforcement Learning**, with an emphasis on two closely related directions:
 
-- **Reasoning** — particularly, how reinforcement learning can shape and enhance reasoning capabilities
-- **Tool-using agents** — developing improved algorithms and challenging datasets to strengthen models' ability to invoke tools and solve real-world tasks
+- **Environments and supervision** — building diverse, realistic, long-horizon environments and developing reliable, dense supervision for agent learning.
+- **Scaling and generalization** — understanding how to allocate training compute effectively, what limits further gains as compute scales, and when learned capabilities generalize to new tasks, environments, and agent harnesses.
 
 I am open to any collaboration😊
 
