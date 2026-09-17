@@ -27,7 +27,7 @@ I am open to any collaboration😊
 <div class='paper-box-text' markdown="1">
 <strong><font color="CornFlowerBlue">Beyond Outcome Rewards: Step-Level Self-Distilled Policy Optimization for Deep Search Agents</font></strong><br>
 **Haoze Wu**, Chuqiao Kuang, Tianyi Zhuang, Xiaoguang Li\\
-**Arxiv 2026** |  [PDF](https://arxiv.org/pdf/2608.12764) | [Code](https://github.com/hkust-nlp/SSPO) | [Dataset](https://huggingface.co/datasets/WaitHZ/SSPO-data)
+**Preprint 2026** |  [PDF](https://arxiv.org/pdf/2608.12764) | [Code](https://github.com/hkust-nlp/SSPO) | [Dataset](https://huggingface.co/datasets/WaitHZ/SSPO-data)
 </div>
 
 <div class='paper-box-text' markdown="1">
@@ -52,7 +52,7 @@ Junlong Li\*, Wenshuo Zhao\*, Jian Zhao\*, Weihao Zeng\*, **Haoze Wu**\*, Xiaoch
 <div class='paper-box-text' markdown="1">
 <strong><font color="CornFlowerBlue">GW-MoE: Resolving Uncertainty in MoE Router with Global Workspace Theory</font></strong><br>
 **Haoze Wu**\*, Zihan Qiu\*, Zili Wang, Hang Zhao, Jie Fu\\
-**Arxiv 2024** |  [PDF](https://arxiv.org/abs/2406.12375) | [Code](https://github.com/WaitHZ/GW-MoE)
+**Preprint 2024** |  [PDF](https://arxiv.org/abs/2406.12375) | [Code](https://github.com/WaitHZ/GW-MoE)
 </div>
 
 
