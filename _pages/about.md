@@ -19,37 +19,37 @@ My research focuses on **scaling agentic Reinforcement Learning**, with an empha
 - **Environments and supervision** — building diverse, realistic, long-horizon environments and developing reliable, dense supervision for agent learning.
 - **Compute allocation and generalization** — understanding how to allocate training compute effectively and when learned capabilities generalize to new tasks, environments, and agent harnesses.
 
-# 📝 Publications (\* denotes co-first authors) {#publications}
+# 📝 Publications <span class="publications-note">(\* denotes co-first authors)</span> {#publications}
 
-<div class='paper-box-text' markdown="1">
-<strong><font color="CornFlowerBlue">Beyond Outcome Rewards: Step-Level Self-Distilled Policy Optimization for Deep Search Agents</font></strong><br>
+<div class='paper-box-text publication' markdown="1">
+<strong class="publication-title">Beyond Outcome Rewards: Step-Level Self-Distilled Policy Optimization for Deep Search Agents</strong><br>
 **Haoze Wu**, Chuqiao Kuang, Tianyi Zhuang, Xiaoguang Li\\
-**Preprint 2026** |  [PDF](https://arxiv.org/pdf/2608.12764) | [Code](https://github.com/hkust-nlp/SSPO) | [Dataset](https://huggingface.co/datasets/WaitHZ/SSPO-data)
+<span class="publication-meta">**Preprint 2026** &nbsp;·&nbsp;  [PDF](https://arxiv.org/pdf/2608.12764) &nbsp;·&nbsp; [Code](https://github.com/hkust-nlp/SSPO) &nbsp;·&nbsp; [Dataset](https://huggingface.co/datasets/WaitHZ/SSPO-data)</span>
 </div>
 
-<div class='paper-box-text' markdown="1">
-<strong><font color="CornFlowerBlue">The Tool Decathlon: Benchmarking Language Agents for Diverse, Realistic, and Long-Horizon Task Execution</font></strong><br>
+<div class='paper-box-text publication' markdown="1">
+<strong class="publication-title">The Tool Decathlon: Benchmarking Language Agents for Diverse, Realistic, and Long-Horizon Task Execution</strong><br>
 Junlong Li\*, Wenshuo Zhao\*, Jian Zhao\*, Weihao Zeng\*, **Haoze Wu**\*, Xiaochen Wang, Rui Ge, Yuxuan Cao, Yuzhen Huang, Wei Liu, Junteng Liu, Zhaochen Su, Yiyang Guo, Fan Zhou, Lueyang Zhang, Juan Michelini, Xingyao Wang, Xiang Yue, Shuyan Zhou, Graham Neubig, Junxian He\\
-**ICLR 2026** |  [PDF](https://arxiv.org/abs/2510.25726) | [Code](https://github.com/hkust-nlp/Toolathlon) | [Page](https://toolathlon.xyz/) | [Dataset](https://huggingface.co/datasets/hkust-nlp/Toolathlon-Trajectories)
+<span class="publication-meta">**ICLR 2026** &nbsp;·&nbsp;  [PDF](https://arxiv.org/abs/2510.25726) &nbsp;·&nbsp; [Code](https://github.com/hkust-nlp/Toolathlon) &nbsp;·&nbsp; [Page](https://toolathlon.xyz/) &nbsp;·&nbsp; [Dataset](https://huggingface.co/datasets/hkust-nlp/Toolathlon-Trajectories)</span>
 </div>
 
-<div class='paper-box-text' markdown="1">
-<strong><font color="CornFlowerBlue">Mirage or Method? How Model-Task Alignment Induces Divergent RL Conclusions</font></strong><br>
+<div class='paper-box-text publication' markdown="1">
+<strong class="publication-title">Mirage or Method? How Model-Task Alignment Induces Divergent RL Conclusions</strong><br>
 **Haoze Wu**\*, Cheng Wang\*, Wenshuo Zhao, Junxian He\\
-**ICLR 2026, MATH-AI@NeurIPS 2025** |  [PDF](https://arxiv.org/abs/2508.21188) | [Code](https://github.com/hkust-nlp/model-task-align-rl)
+<span class="publication-meta">**ICLR 2026, MATH-AI@NeurIPS 2025** &nbsp;·&nbsp;  [PDF](https://arxiv.org/abs/2508.21188) &nbsp;·&nbsp; [Code](https://github.com/hkust-nlp/model-task-align-rl)</span>
 </div>
 
 
-<div class='paper-box-text' markdown="1">
-<strong><font color="CornFlowerBlue">ReCode: Updating Code API Knowledge with Reinforcement Learning</font></strong><br>
+<div class='paper-box-text publication' markdown="1">
+<strong class="publication-title">ReCode: Updating Code API Knowledge with Reinforcement Learning</strong><br>
 **Haoze Wu**, Yunzhi Yao, Wenhao Yu, Ningyu Zhang\\
-**AAAI 2026** |  [PDF](https://arxiv.org/abs/2506.20495) | [Code](https://github.com/zjunlp/ReCode) | [Dataset](https://huggingface.co/datasets/zjunlp/ReCode-Train-Data)
+<span class="publication-meta">**AAAI 2026** &nbsp;·&nbsp;  [PDF](https://arxiv.org/abs/2506.20495) &nbsp;·&nbsp; [Code](https://github.com/zjunlp/ReCode) &nbsp;·&nbsp; [Dataset](https://huggingface.co/datasets/zjunlp/ReCode-Train-Data)</span>
 </div>
 
-<div class='paper-box-text' markdown="1">
-<strong><font color="CornFlowerBlue">GW-MoE: Resolving Uncertainty in MoE Router with Global Workspace Theory</font></strong><br>
+<div class='paper-box-text publication' markdown="1">
+<strong class="publication-title">GW-MoE: Resolving Uncertainty in MoE Router with Global Workspace Theory</strong><br>
 **Haoze Wu**\*, Zihan Qiu\*, Zili Wang, Hang Zhao, Jie Fu\\
-**Preprint 2024** |  [PDF](https://arxiv.org/abs/2406.12375) | [Code](https://github.com/WaitHZ/GW-MoE)
+<span class="publication-meta">**Preprint 2024** &nbsp;·&nbsp;  [PDF](https://arxiv.org/abs/2406.12375) &nbsp;·&nbsp; [Code](https://github.com/WaitHZ/GW-MoE)</span>
 </div>
 
 
