@@ -18,9 +18,7 @@ I am a first-year MPhil student at [HKUST NLP Group](https://github.com/hkust-nl
 I am open to any collaboration😊
 
 
-# 📝 Publications {#publications}
-
-(* denotes co-first authors)
+# 📝 Publications (\* denotes co-first authors) {#publications}
 
 <div class='paper-box-text' markdown="1">
 <strong><font color="CornFlowerBlue">Beyond Outcome Rewards: Step-Level Self-Distilled Policy Optimization for Deep Search Agents</font></strong><br>
