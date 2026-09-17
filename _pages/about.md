@@ -17,7 +17,7 @@ Hi, I am a first-year MPhil student at [HKUST NLP Group](https://github.com/hkus
 My research focuses on **scaling agentic Reinforcement Learning**, with an emphasis on two closely related directions:
 
 - **Environments and supervision** — building diverse, realistic, long-horizon environments and developing reliable, dense supervision for agent learning.
-- **Scaling and generalization** — understanding how to allocate training compute effectively, what limits further gains as compute scales, and when learned capabilities generalize to new tasks, environments, and agent harnesses.
+- **Scaling and generalization** — understanding how to allocate training compute effectively and when learned capabilities generalize to new tasks, environments, and agent harnesses.
 
 # 📝 Publications (\* denotes co-first authors) {#publications}
 
