@@ -18,7 +18,7 @@ I am a first-year MPhil student at [HKUST NLP Group](https://github.com/hkust-nl
 I am open to any collaboration😊
 
 
-# Publications 
+# 📝 Publications {#publications}
 
 (* denotes co-first authors)
 
@@ -54,13 +54,13 @@ Junlong Li\*, Wenshuo Zhao\*, Jian Zhao\*, Weihao Zeng\*, **Haoze Wu**\*, Xiaoch
 </div>
 
 
-# Education
+# 🎓 Education {#education}
 - *2026.08 - 2028.06 (expected)*, MPhil@HKUST, CSE
 - *2021.09 - 2025.06*, B.Eng.@ZJU, Computer Science
 
-# Internships
+# 💻 Internships {#internships}
 - *2026.06 - Present*, [MiniMax Post-Training](https://www.minimax.io/), Shanghai.
 - *2024.10 - 2025.01*, [Shanghai AI Lab](https://www.shlab.org.cn/), Shanghai.
 
-# Service
+# 🤝 Service {#service}
 - Reviewer: NeurIPS, ICLR, ACL, EMNLP, ARR, Math-AI@NeurIPS
