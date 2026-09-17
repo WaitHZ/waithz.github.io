@@ -58,7 +58,7 @@ Junlong Li\*, Wenshuo Zhao\*, Jian Zhao\*, Weihao Zeng\*, **Haoze Wu**\*, Xiaoch
 
 # 💻 Internships {#internships}
 - *2026.06 - Present*, [MiniMax Post-Training](https://www.minimax.io/), Shanghai.
-- *2024.10 - 2025.01*, [Shanghai AI Lab](https://www.shlab.org.cn/), Shanghai.
+- *2024.10 - 2025.01*, [Shanghai AI Lab](https://www.shlab.org.cn/), Shanghai, advised by Jie Fu.
 
 # 🤝 Service {#service}
 - Reviewer: NeurIPS, ICLR, ACL, EMNLP, ARR, Math-AI@NeurIPS
