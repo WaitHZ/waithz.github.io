@@ -61,7 +61,7 @@ Junlong Li\*, Wenshuo Zhao\*, Jian Zhao\*, Weihao Zeng\*, **Haoze Wu**\*, Xiaoch
 - *2021.09 - 2025.06*, B.Eng.@ZJU, Computer Science
 
 # 💻 Internships {#internships}
-- *2026.06 - Present*, [MiniMax Post-Training](https://www.minimax.io/), Shanghai, contributing to Agentic RL team.
+- *2026.06 - Present*, [MiniMax AI](https://www.minimax.io/), Shanghai, contributing to Agentic RL team.
 - *2024.10 - 2025.01*, [Shanghai AI Lab](https://www.shlab.org.cn/), Shanghai, advised by [Jie Fu](https://bigaidream.github.io/).
 
 # 🤝 Service {#service}
