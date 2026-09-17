@@ -19,9 +19,6 @@ My research focuses on **scaling agentic Reinforcement Learning**, with an empha
 - **Environments and supervision** — building diverse, realistic, long-horizon environments and developing reliable, dense supervision for agent learning.
 - **Scaling and generalization** — understanding how to allocate training compute effectively, what limits further gains as compute scales, and when learned capabilities generalize to new tasks, environments, and agent harnesses.
 
-I am open to any collaboration😊
-
-
 # 📝 Publications (\* denotes co-first authors) {#publications}
 
 <div class='paper-box-text' markdown="1">
