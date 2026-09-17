@@ -10,7 +10,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year MPhil student at [HKUST NLP Group](https://github.com/hkust-nlp), supervised by [Prof. Junxian He](https://jxhe.github.io/), and currently an LLM Algorithm Intern at [MiniMax](https://www.minimax.io/). Before that, I received my B.Eng. degree from the CKC honor college at [Zhejiang University](https://www.zju.edu.cn/english/) in 2025. My research interests center on two directions:
+Hi, I am a first-year MPhil student at [HKUST NLP Group](https://github.com/hkust-nlp). I am fortunate to be advised by Prof. [Junxian He](https://jxhe.github.io/). Before that, I received my B.Eng. degree in Computer Science from CKC Honors College, [Zhejiang University](https://www.zju.edu.cn/english/), in 2025. I previously spent some time at [Shanghai AI Lab](https://www.shlab.org.cn/) and am currently contributing to the Agentic RL team at [MiniMax](https://www.minimax.io/).
+
+# 🧠 Research Interests {#research-interests}
+
+My research interests center on two directions:
 
 - **Reasoning** — particularly, how reinforcement learning can shape and enhance reasoning capabilities
 - **Tool-using agents** — developing improved algorithms and challenging datasets to strengthen models' ability to invoke tools and solve real-world tasks
