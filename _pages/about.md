@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am a first-year MPhil student at [HKUST NLP Group](https://github.com/hkust-nlp). I am fortunate to be advised by Prof. [Junxian He](https://jxhe.github.io/). Before that, I received my B.Eng. degree in Computer Science from CKC Honors College, [Zhejiang University](https://www.zju.edu.cn/english/), in 2025. I previously spent some time at [Shanghai AI Lab](https://www.shlab.org.cn/) and am currently contributing to the Agentic RL team at [MiniMax AI](https://www.minimax.io/).
+Hi, my name is Haoze Wu (吴昊泽 in Chinese). I am a first-year MPhil student at [HKUST NLP Group](https://github.com/hkust-nlp). I am fortunate to be advised by Prof. [Junxian He](https://jxhe.github.io/). Before that, I received my B.Eng. degree in Computer Science from CKC Honors College, [Zhejiang University](https://www.zju.edu.cn/english/), in 2025. I previously spent some time at [Shanghai AI Lab](https://www.shlab.org.cn/) and am currently contributing to the Agentic RL team at [MiniMax AI](https://www.minimax.io/).
 
 # 🧠 Research Interests {#research-interests}
 
