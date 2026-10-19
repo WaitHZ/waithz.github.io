@@ -24,7 +24,7 @@ My research focuses on **scaling agentic Reinforcement Learning**, with an empha
 <div class='paper-box-text publication' markdown="1">
 <strong class="publication-title">MiniMax M3.1 Flash: Redefining Agent Performance and Cost</strong><br>
 **MiniMax Team**<br>
-<span class="publication-meta">**Blog** &nbsp;·&nbsp; [Website](https://www.minimax.io/blog/minimax-m31f)</span>
+<span class="publication-meta">**Blog** &nbsp;·&nbsp;  [Page](https://www.minimax.io/blog/minimax-m31f)</span>
 </div>
 
 <div class='paper-box-text publication' markdown="1">
