@@ -22,6 +22,12 @@ My research focuses on **scaling agentic Reinforcement Learning**, with an empha
 # 📝 Publications <span class="publications-note">(\* denotes co-first authors; † denotes corresponding authors)</span> {#publications}
 
 <div class='paper-box-text publication' markdown="1">
+<strong class="publication-title">MiniMax M3.1 Flash: Redefining Agent Performance and Cost</strong><br>
+**MiniMax Team**<br>
+<span class="publication-meta">**Blog** &nbsp;·&nbsp; [Website](https://www.minimax.io/blog/minimax-m31f)</span>
+</div>
+
+<div class='paper-box-text publication' markdown="1">
 <strong class="publication-title">Beyond Outcome Rewards: Step-Level Self-Distilled Policy Optimization for Deep Search Agents</strong><br>
 **Haoze Wu**<sup>†</sup>, Chuqiao Kuang, Tianyi Zhuang, Xiaoguang Li\\
 <span class="publication-meta">**NeurIPS 2026** &nbsp;·&nbsp;  [PDF](https://arxiv.org/pdf/2608.12764) &nbsp;·&nbsp; [Code](https://github.com/hkust-nlp/SSPO) &nbsp;·&nbsp; [Dataset](https://huggingface.co/datasets/WaitHZ/SSPO-data)</span>
